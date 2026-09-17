@@ -1,0 +1,6 @@
+{
+  "name": "Gulbarga QuickBite & Kirana Delivery Platform",
+  "description": "Unified multi-vendor food and grocery delivery platform in Gulbarga, Karnataka featuring real-time tracking, customer, driver, vendor, and admin apps in English and Hindi.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

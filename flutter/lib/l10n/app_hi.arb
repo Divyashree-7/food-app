@@ -1,0 +1,19 @@
+{
+  "@@locale": "hi",
+  "appName": "गुलबर्गा क्विकबाइट और किराना",
+  "foodTab": "खाना डिलीवरी",
+  "groceryTab": "इंस्टा किराना",
+  "deliverTo": "गुलबर्गा में डिलीवरी",
+  "searchHint": "व्यंजन, रेस्टोरेंट या किराना सामान खोजें...",
+  "addToCart": "जोड़ें",
+  "viewCart": "टोकरी देखें",
+  "placeOrder": "भुगतान करें",
+  "liveTracking": "लाइव ट्रैकिंग",
+  "orderStatusPlaced": "आर्डर दर्ज हुआ",
+  "orderStatusAccepted": "स्वीकृत हुआ",
+  "orderStatusPreparing": "तैयारी / पैकिंग जारी",
+  "orderStatusReady": "उठाने के लिए तैयार",
+  "orderStatusPickedUp": "डिलीवरी के लिए निकला",
+  "orderStatusDelivered": "सफलतापूर्वक डिलीवर",
+  "deliveryOtpLabel": "पार्टनर को यह ओटीपी बताएं:"
+}

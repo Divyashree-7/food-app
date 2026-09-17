@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "appName": "Gulbarga QuickBite & Kirana",
+  "foodTab": "Food Delivery",
+  "groceryTab": "Insta Grocery",
+  "deliverTo": "Deliver to Gulbarga",
+  "searchHint": "Search dishes, restaurants or groceries...",
+  "addToCart": "ADD",
+  "viewCart": "View Basket",
+  "placeOrder": "Proceed to Pay",
+  "liveTracking": "Live Tracking",
+  "orderStatusPlaced": "Order Placed",
+  "orderStatusAccepted": "Kitchen Accepted",
+  "orderStatusPreparing": "Preparing Food / Packing Goods",
+  "orderStatusReady": "Ready for Pickup",
+  "orderStatusPickedUp": "Out for Delivery",
+  "orderStatusDelivered": "Delivered",
+  "deliveryOtpLabel": "Share this OTP with partner:"
+}
